@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "slug": "yoga-app",
+    "title": "Exercice de Yoga",
+    "shortDescription": "L'application permets de choisir les exercices de yoga que l'on veut faire avec un timer pour chaque exercice.",
+    "longDescription": "L'application permets de choisir les exercices de yoga que l'on veut faire avec un timer pour chaque exercice. L'application est responsive et permet de choisir les exercices que l'on veut faire. L'application est développée avec React.",
+    "image": "https://roriks22.github.io/Exercice_Yoga/img/6.png",
+    "tags": ["React", "SCSS"],
+    "github": "https://github.com/Roriks22/Exercice_Yoga",
+    "demo": "https://roriks22.github.io/Exercice_Yoga/",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "slug": "movies-app",
+    "title": "MoviesApp - Application de recherche de films",
+    "shortDescription": "Recherchez et découvrez vos films préférés avec des informations détaillées",
+    "longDescription": "MoviesApp est une application de recherche de films qui permet de trouver des informations détaillées sur vos séries et films préférés. Elle utilise l'API TMDb pour fournir des données précises et offre une interface utilisateur moderne et intuitive.",
+    "image": "https://img.magnific.com/photos-gratuite/tasse-pop-corn-cinema-3d_23-2151024837.jpg",
+    "tags": ["React", "SCSS", "API REST"],
+    "github": "https://github.com/Roriks22/movies",
+    "demo": "https://roriks22.github.io/movies/",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "slug": "token-tracker",
+    "title": "TokenTracker - Suivi des tokens",
+    "shortDescription": "Application pour suivre et gérer ses tokens crypto",
+    "longDescription": "TokenTracker est une application web pour suivre et gérer ses tokens crypto. Elle propose un système de recherche avancé par nom, symbole et catégorie. Les utilisateurs peuvent créer leur propre collection de tokens favorites et les organiser par catégories.",
+    "image": "https://roriks22.github.io/token-tracker/static/media/logo.98d41517c24e28874cb4.png",
+    "tags": ["React", "SCSS", "API REST"],
+    "github": "https://github.com/Roriks22/token-tracker",
+    "demo": "https://roriks22.github.io/token-tracker/",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "slug": "faire-part-de-mariage",
+    "title": "Faire-part de mariage",
+    "shortDescription": "Design et développement d'un faire-part de mariage",
+    "longDescription": "Création d'un faire-part de mariage avec un design élégant et moderne. L'application permet de personnaliser le faire-part avec des images, des textes et des éléments graphiques.",
+    "image": "https://faire-part-mariage-marie-paul.vercel.app/images/icon.webp",
+    "tags": ["React", "SCSS", "Node.js", "Express", "MongoDB"],
+    "github": "https://faire-part-mariage-marie-paul.vercel.app/images/icon.webp",
+    "demo": "https://faire-part-mariage-marie-paul.vercel.app/",
+    "featured": true
+  },
+   {
+    "id": 5,
+    "slug": "socratea",
+    "title": "Socratea",
+    "shortDescription": "Socratea est une application web moderne d'un cabinet d'expertise comptable.",
+    "longDescription": "Socratea est une application web moderne d'un cabinet d'expertise comptable. Elle permet de gérer les clients, les factures et les paiements.",
+    "image": "https://www.socratea.net/images/socratea-logo.webp",
+    "tags": ["React", "Vite", "SCSS"],
+    "github": "https://github.com/Roriks22/Socratea",
+    "demo": "https://www.socratea.net/",
+    "featured": true
+  }
+]

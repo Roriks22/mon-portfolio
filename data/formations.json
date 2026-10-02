@@ -1,0 +1,18 @@
+[
+        {
+            "id": 1,
+            "title": "Développeur web",
+            "slug": "developpeur-web",
+            "description": "Formation en Développeur Web. Apprenez à créer des sites web responsive et accessibles.",
+            "tags": ["Bac +2", "6 mois"],
+            "image": "https://oc-static.imgix.net/prod/images/paths/hero_navbar/path_899.png?auto=compress,format&amp;q=60&amp;w=468"
+        },
+        {
+            "id": 2,
+            "title": "Développeur full-stack front-end avancé",
+            "slug": "developpeur-full-stack-front-end-avance",
+            "description": "Formation en développeur full-stack front-end avancé. Concevez et créez des appliactions web modernes.",
+            "tags": ["Bac +3", "9 mois"],
+            "image": "https://oc-static.imgix.net/prod/images/paths/hero_navbar/path_5415.png?auto=compress,format&amp;q=60&amp;w=468"
+        }
+    ]
